@@ -1,0 +1,1 @@
+A user will be able to experiment with much of the knowledge in this book with a variety of operating systems and hardware, although it is specifically focused for Linux 3.2 and higher running on X86 32bit or 64bit architectures.
